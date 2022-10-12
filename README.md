@@ -7,7 +7,9 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<em>I am a <strong>Full-stack Mobile</strong> and also <strong>Certified Public Accountant</strong> at Universidad de Buenos Aires, with a <strong>Master degree in Businesss Administration (MBA)</strong> at University of Georgia</em>
+<p><em>I am a <strong>Full-stack Developer</strong> and also <strong>Certified Public Accountant</strong> at Universidad de Buenos Aires, with a <strong>Master degree in Businesss Administration (MBA)</strong> at University of Georgia USA</em>&nbsp;&nbsp;&nbsp;<img src="https://brand.uga.edu/wp-content/uploads/GEORGIA-WRD-FC-768x192.png" width="10%/></p> 
+  
+<p>
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
@@ -20,7 +22,7 @@
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
+<p/>
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
