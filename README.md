@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="![image](https://user-images.githubusercontent.com/12126429/195471873-ce50893f-f819-41d4-be4a-7289cbdf9448.png)" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 
