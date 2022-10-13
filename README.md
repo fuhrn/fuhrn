@@ -73,7 +73,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [fuhrn](https://github.com/fuhrn)
 
-[website]: https://souravdey777.github.io/Portfolio/
+[website]: https://portfolio-fuhr.vercel.app/
 [twitter]: https://twitter.com/FuhrNestor
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/fuhr01/
