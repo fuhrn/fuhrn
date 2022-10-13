@@ -13,9 +13,9 @@
 
 
   
-🔭 I’m developin an ecommerce web app with React and MongoDB as a learning project to apply new technologies and react libraries..
+🔭 I’m developing an ecommerce web app with React and MongoDB as a learning project to apply new technologies and react libraries..
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width=3%> Typescript.
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
