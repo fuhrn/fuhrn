@@ -13,7 +13,7 @@
 
 
   
-🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+🔭 I’m developin an ecommerce web app with React and MongoDB as a learning project to apply new technologies and react libraries..
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
