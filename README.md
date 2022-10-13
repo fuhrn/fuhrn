@@ -54,8 +54,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuhrn&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/fuhrn)
-
 ---
 
 
@@ -69,24 +67,15 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/f
 <br/>
 
 
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
-
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [fuhrn](https://github.com/fuhrn)
 
 [website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
+[twitter]: https://twitter.com/FuhrNestor
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[instagram]: https://www.instagram.com/fuhr01/
+[linkedin]: https://www.linkedin.com/in/nestorsantiagofuhr/
+<!-- [medium]: https://medium.com/@Souravdey777/ -->
